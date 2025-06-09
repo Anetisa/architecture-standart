@@ -1,35 +1,83 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4" pages="2">
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9" pages="2">
   <diagram id="1zcTAVt1k4KSup7FvAfL" name="Roadmap">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="4965" dy="3581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="3D7FDG2aXA9G618_Kong-0" />
         <mxCell id="3D7FDG2aXA9G618_Kong-1" parent="3D7FDG2aXA9G618_Kong-0" />
-        <mxCell id="wGroBH12Sy7-OgBsN0fJ-2" value="" style="shape=rect;fillColor=#fff2cc;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="3D7FDG2aXA9G618_Kong-1">
-          <mxGeometry x="-2500" y="-930" width="1610" height="180" as="geometry" />
+        <mxCell id="wGroBH12Sy7-OgBsN0fJ-2" value="" style="shape=rect;fillColor=#fff2cc;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" parent="3D7FDG2aXA9G618_Kong-1" vertex="1">
+          <mxGeometry x="-2500" y="-930" width="1860" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="wGroBH12Sy7-OgBsN0fJ-4" value="" style="shape=rect;fillColor=#fff2cc;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="3D7FDG2aXA9G618_Kong-1">
-          <mxGeometry x="-2500" y="-1146.8" width="1610" height="196.8" as="geometry" />
+        <mxCell id="wGroBH12Sy7-OgBsN0fJ-4" value="" style="shape=rect;fillColor=#fff2cc;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" parent="3D7FDG2aXA9G618_Kong-1" vertex="1">
+          <mxGeometry x="-2500" y="-1146.8" width="1860" height="196.8" as="geometry" />
         </mxCell>
-        <mxCell id="wGroBH12Sy7-OgBsN0fJ-5" value="T1 - Задача 1" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="3D7FDG2aXA9G618_Kong-1">
-          <mxGeometry x="-2480" y="-1120" width="390" height="50" as="geometry" />
+        <mxCell id="wGroBH12Sy7-OgBsN0fJ-5" value="T1 -&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Создание макета интерфейса для операторов&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" parent="3D7FDG2aXA9G618_Kong-1" vertex="1">
+          <mxGeometry x="-2480" y="-1120" width="330" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wGroBH12Sy7-OgBsN0fJ-6" value="&lt;span style=&quot;text-align: left;&quot;&gt;T2 - Задача 2&lt;/span&gt;" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="3D7FDG2aXA9G618_Kong-1">
-          <mxGeometry x="-2090" y="-1040" width="550" height="60" as="geometry" />
+        <mxCell id="wGroBH12Sy7-OgBsN0fJ-6" value="&lt;span style=&quot;text-align: left;&quot;&gt;T2 -&amp;nbsp;&lt;/span&gt;Интеграция интерфейса в существующую CRM/портал" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" parent="3D7FDG2aXA9G618_Kong-1" vertex="1">
+          <mxGeometry x="-2150" y="-1060" width="570" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wGroBH12Sy7-OgBsN0fJ-7" value="Система 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=18;" vertex="1" parent="3D7FDG2aXA9G618_Kong-1">
+        <mxCell id="wGroBH12Sy7-OgBsN0fJ-7" value="Система кол-центра" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=18;" parent="3D7FDG2aXA9G618_Kong-1" vertex="1">
           <mxGeometry x="-2630" y="-1146.8" width="120" height="196.8" as="geometry" />
         </mxCell>
-        <mxCell id="wGroBH12Sy7-OgBsN0fJ-8" value="Система 2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=18;" vertex="1" parent="3D7FDG2aXA9G618_Kong-1">
+        <mxCell id="wGroBH12Sy7-OgBsN0fJ-8" value="Система работы с депозитами" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=18;" parent="3D7FDG2aXA9G618_Kong-1" vertex="1">
           <mxGeometry x="-2630" y="-930" width="120" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="wGroBH12Sy7-OgBsN0fJ-9" value="Q2" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#f5f5f5;strokeColor=#666666;fontSize=18;fontStyle=1;align=center;rounded=0;fontColor=#333333;" vertex="1" parent="3D7FDG2aXA9G618_Kong-1">
-          <mxGeometry x="-2500" y="-1240" width="1610" height="74.4" as="geometry" />
+        <mxCell id="wGroBH12Sy7-OgBsN0fJ-9" value="Q2" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#f5f5f5;strokeColor=#666666;fontSize=18;fontStyle=1;align=center;rounded=0;fontColor=#333333;" parent="3D7FDG2aXA9G618_Kong-1" vertex="1">
+          <mxGeometry x="-2500" y="-1240" width="930" height="74.4" as="geometry" />
         </mxCell>
-        <mxCell id="wGroBH12Sy7-OgBsN0fJ-11" value="T4 - Задача 4" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="3D7FDG2aXA9G618_Kong-1">
-          <mxGeometry x="-1850" y="-870" width="480" height="60" as="geometry" />
+        <mxCell id="wGroBH12Sy7-OgBsN0fJ-11" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:5240,&amp;quot;end&amp;quot;:5511},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:5309,&amp;quot;end&amp;quot;:5385}]&quot;&gt;&amp;nbsp;Т8 - Разработка модуля генерации и ручной выгрузки файла ставок.&lt;/p&gt;" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" parent="3D7FDG2aXA9G618_Kong-1" vertex="1">
+          <mxGeometry x="-2180" y="-810" width="590" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="wGroBH12Sy7-OgBsN0fJ-15" value="T3 - Задача 3" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="3D7FDG2aXA9G618_Kong-1">
-          <mxGeometry x="-2400" y="-910" width="280" height="60" as="geometry" />
+        <mxCell id="wGroBH12Sy7-OgBsN0fJ-15" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:5240,&amp;quot;end&amp;quot;:5511},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:5240,&amp;quot;end&amp;quot;:5308}]&quot;&gt;&amp;nbsp;Т7 - Анализ формата передачи ставок, утверждение формата выгрузки&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(CSV/XLSX)&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;.&lt;/span&gt;&lt;/p&gt;" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" parent="3D7FDG2aXA9G618_Kong-1" vertex="1">
+          <mxGeometry x="-2490" y="-920" width="310" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EaMGPEsRvCoEwAuD_jiu-1" value="Q3" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#f5f5f5;strokeColor=#666666;fontSize=18;fontStyle=1;align=center;rounded=0;fontColor=#333333;" vertex="1" parent="3D7FDG2aXA9G618_Kong-1">
+          <mxGeometry x="-1570" y="-1240" width="930" height="74.4" as="geometry" />
+        </mxCell>
+        <mxCell id="EaMGPEsRvCoEwAuD_jiu-2" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:6173,&amp;quot;end&amp;quot;:6444},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:6319,&amp;quot;end&amp;quot;:6396}]&quot;&gt;Т9 - Настройка автоматической выгрузки по расписанию, шифрование.&lt;/p&gt;" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="3D7FDG2aXA9G618_Kong-1">
+          <mxGeometry x="-1570" y="-920" width="580" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EaMGPEsRvCoEwAuD_jiu-3" value="&lt;span data-end=&quot;1029&quot; data-start=&quot;994&quot;&gt;Система партнёрского кол-центра&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=18;" vertex="1" parent="3D7FDG2aXA9G618_Kong-1">
+          <mxGeometry x="-2630" y="-730" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="EaMGPEsRvCoEwAuD_jiu-4" value="" style="shape=rect;fillColor=#fff2cc;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="3D7FDG2aXA9G618_Kong-1">
+          <mxGeometry x="-2500" y="-730" width="1860" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="EaMGPEsRvCoEwAuD_jiu-5" value="Т12 - Согласование формата файла и метода передачи" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="3D7FDG2aXA9G618_Kong-1">
+          <mxGeometry x="-2485" y="-710" width="495" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EaMGPEsRvCoEwAuD_jiu-6" value="Т13 - Подключение к ручному процессу получения выгрузок" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="3D7FDG2aXA9G618_Kong-1">
+          <mxGeometry x="-1980" y="-640" width="390" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EaMGPEsRvCoEwAuD_jiu-7" value="Т15 - Защита архива паролем, журналирование отправки" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="3D7FDG2aXA9G618_Kong-1">
+          <mxGeometry x="-1570" y="-640" width="570" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EaMGPEsRvCoEwAuD_jiu-8" value="Т16 - Тестирование и вывод в продакшен" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="3D7FDG2aXA9G618_Kong-1">
+          <mxGeometry x="-980" y="-710" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EaMGPEsRvCoEwAuD_jiu-9" value="Т17 - Согласование SLA и процесса обновлений" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="3D7FDG2aXA9G618_Kong-1">
+          <mxGeometry x="-980" y="-640" width="320" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EaMGPEsRvCoEwAuD_jiu-11" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:6173,&amp;quot;end&amp;quot;:6444},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:6319,&amp;quot;end&amp;quot;:6396}]&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Т10 - Вывод в продакшен&lt;/span&gt;&lt;/p&gt;" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="3D7FDG2aXA9G618_Kong-1">
+          <mxGeometry x="-980" y="-930" width="330" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EaMGPEsRvCoEwAuD_jiu-12" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:6173,&amp;quot;end&amp;quot;:6444},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:6319,&amp;quot;end&amp;quot;:6396}]&quot;&gt;Т11 - Настройка мониторинга успешных выгрузок&lt;/p&gt;" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="3D7FDG2aXA9G618_Kong-1">
+          <mxGeometry x="-1000" y="-840" width="350" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EaMGPEsRvCoEwAuD_jiu-14" value="&lt;div style=&quot;text-align: left;&quot;&gt;Т3 -&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: center;&quot;&gt;Разработка авторизации и ограничений доступа&lt;/span&gt;&lt;/div&gt;" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="3D7FDG2aXA9G618_Kong-1">
+          <mxGeometry x="-2150" y="-1000" width="570" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EaMGPEsRvCoEwAuD_jiu-15" value="&lt;span style=&quot;text-align: left;&quot;&gt;T4&amp;nbsp;&amp;nbsp;-&amp;nbsp;&lt;/span&gt;Тестирование на пилотной группе сотрудников" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="3D7FDG2aXA9G618_Kong-1">
+          <mxGeometry x="-1565" y="-1060" width="465" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EaMGPEsRvCoEwAuD_jiu-16" value="&lt;span style=&quot;text-align: left;&quot;&gt;T5&amp;nbsp; -&amp;nbsp;&lt;/span&gt;Обучение персонала" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="3D7FDG2aXA9G618_Kong-1">
+          <mxGeometry x="-1100" y="-1130" width="450" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EaMGPEsRvCoEwAuD_jiu-17" value="&lt;span style=&quot;text-align: left;&quot;&gt;T6&amp;nbsp; -&amp;nbsp;&lt;/span&gt;Полное внедрение в рабочие процессы" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="3D7FDG2aXA9G618_Kong-1">
+          <mxGeometry x="-1100" y="-1000" width="450" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EaMGPEsRvCoEwAuD_jiu-18" value="Т14 - Настройка регулярной полуавтоматической отправки" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="3D7FDG2aXA9G618_Kong-1">
+          <mxGeometry x="-1570" y="-720" width="570" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
